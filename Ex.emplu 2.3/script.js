@@ -1,4 +1,3 @@
-
 var a = prompt('Introdu A'),
     b =  prompt('Introdu B'),
     c =  prompt('Introdu C');
