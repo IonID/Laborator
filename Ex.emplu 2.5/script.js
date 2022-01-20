@@ -1,3 +1,4 @@
+
 var a = prompt('Introdu A');
  
 if (a > 0) {
