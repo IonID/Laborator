@@ -16,3 +16,5 @@ let styles = ["Jazz", "Blues"];         // Creem masivul
 
     styles.unshift("Reggae", "Rap");    //Adaugam 2 elemente la inceput de masiv
         console.log(styles);
+
+        
